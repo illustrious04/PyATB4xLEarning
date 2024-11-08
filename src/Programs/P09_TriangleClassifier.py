@@ -13,13 +13,51 @@ side2 = float(input("Enter 2nd side\n"))
 side3 = float(input("Enter 3rd side\n"))
 
 if side1 + side2 > side3 and side1 + side3 > side2 and side2 + side3 > side1:
-    # clasify the triangle
+    # classify the triangle
    if side1 == side2 == side3:
        print("triangle is equilateral.")
    elif side1 == side2 or side1 == side3 or side2 == side3:
        print("Triangle is Isosceles.")
    else:
        print("Triangle is Scalene")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
