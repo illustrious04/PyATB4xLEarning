@@ -10,4 +10,6 @@ Duplicate is also allowed in Tuple
 When we have to use Tuple:
 """
 
-my_tuple = ("abc.com", "wer.com")
+
+# my_tuple = ("abc.com", "wer.com")
+
