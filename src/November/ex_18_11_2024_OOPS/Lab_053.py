@@ -1,5 +1,4 @@
 # Calculator with parametrize  constructor
-from src.Programs.P06_MaxBetween3Numbers import result
 
 
 class Calculator:

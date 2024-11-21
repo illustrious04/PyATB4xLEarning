@@ -6,16 +6,16 @@
 """
 
 class Dog:
-
     name = None
     # Default constructor
     def __init__(self):
         print("I am a Default constructor and will be automatically called when you create an object")
-
     def sleep(self):
         print("Dog is sleeping")
-
 dog1 = Dog()
 dog1.sleep()
 dog1.name = "Mow"
 print(dog1.name)
+
+
+

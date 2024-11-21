@@ -1,5 +1,5 @@
 # Constructor with argument
-from queue import PriorityQueue
+
 
 
 class cat:
@@ -23,3 +23,6 @@ cat1.sleeping()
 print("---------------------------------------------")
 cat2 = cat("Cat2",18)
 cat2.sleeping()
+
+
+

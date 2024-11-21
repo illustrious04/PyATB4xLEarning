@@ -21,8 +21,9 @@
 
 class Myclass:
     public_var = "I am public instance variable"
-    __private_var = "I am Private instance variable"
     _protected_var = "I am Protected Variable"
+    __private_var = "I am Private instance variable"
+
 
 obj = Myclass()
 print(obj.public_var)
