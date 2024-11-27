@@ -1,0 +1,5 @@
+Hello Hello Python
+
+I am a text file.
+
+I used in exceptiions

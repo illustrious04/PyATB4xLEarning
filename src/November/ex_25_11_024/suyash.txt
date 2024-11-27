@@ -1,0 +1,10 @@
+Hello I am text file. having information about suyash.
+
+"With over 5 years of hands-on experience in Automation Quality Assurance,
+I have a proven track record of developing robust automated testing frameworks,
+streamlining QA processes, and ensuring the delivery of high-quality software.
+Skilled in tools like Selenium, Appium, and API testing frameworks,
+I excel in designing efficient test scripts, driving CI/CD integration, and enhancing team productivity.
+My commitment lies in improving software reliability while maintaining a collaborative and agile mindset."
+
+
