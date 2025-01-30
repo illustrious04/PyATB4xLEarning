@@ -6,9 +6,11 @@ print("num1 before swapping", num1)
 print("num1 before swapping", num1)
 
 #Approch 1: With using Temperory variable
-"""tmp = num1     #10
+"""
+tmp = num1     #10
 num1 = num2       #20
-num2 = temp""" #10
+num2 = temp
+""" #10
 
 # Approch 2: Without using temp variable
 
