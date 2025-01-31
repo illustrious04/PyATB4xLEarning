@@ -17,7 +17,7 @@ def test_katalon_edge():
 To run the parallel test cases.
 1) We need to install the python xdist 
 2) run the file => pytest -n auto -s "file path"
-Example: pytest -n auto -s src/Selenium/ex_30_01_2025/test_Lab085_MultiBrowser.py
+Example: pytest -n auto -s src/Selenium/ex_30_01_2025/test_003_MultiBrowser.py
 
 """
 
